@@ -1,0 +1,15 @@
+package com.cdrundle.cdc.iads.service;
+
+import com.cdrundle.cdc.iads.service.bo.UserBo;
+import com.cdrundle.cdc.iads.service.bo.UserQuery;
+import com.cdrundle.common.exception.DataQueryException;
+import com.cdrundle.common.exception.NoDataException;
+import org.springframework.data.domain.Page;
+
+/**
+ * Created by tjee on 2017/6/6.
+ */
+public interface IuserService {
+
+    public Page<UserBo> queryUserList(UserQuery userQuery)throws DataQueryException,NoDataException;;
+}
