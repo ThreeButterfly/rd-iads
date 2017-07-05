@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/cdc-drug/!svn/ver/5924/cdc/2.0/iads-platform/rd-iads/src/main/java/com/cdrundle/cdc/iads/util
+END
+IdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/cdc-drug/!svn/ver/5924/cdc/2.0/iads-platform/rd-iads/src/main/java/com/cdrundle/cdc/iads/util/IdGenerator.java
+END
+SnowFlakeIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/cdc-drug/!svn/ver/5924/cdc/2.0/iads-platform/rd-iads/src/main/java/com/cdrundle/cdc/iads/util/SnowFlakeIdGenerator.java
+END
+GenericsUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/cdc-drug/!svn/ver/5924/cdc/2.0/iads-platform/rd-iads/src/main/java/com/cdrundle/cdc/iads/util/GenericsUtils.java
+END
+NullIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/cdc-drug/!svn/ver/5924/cdc/2.0/iads-platform/rd-iads/src/main/java/com/cdrundle/cdc/iads/util/NullIdGenerator.java
+END

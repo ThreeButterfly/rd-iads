@@ -1,0 +1,39 @@
+package com.cdrundle.cdc.iads.controller;
+
+import javax.servlet.http.HttpServletRequest;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.cdrundle.cdc.iads.service.IuserService;
+import com.cdrundle.common.exception.DataQueryException;
+import com.cdrundle.common.exception.NoDataException;
+import com.google.code.kaptcha.Constants;
+
+@Controller
+@RequestMapping("/index")
+public class LoginController {
+
+    @Autowired
+    IuserService userService;
+
+
+    @RequestMapping("/login")
+    public String login() throws NoDataException, DataQueryException {
+        return "/login/login";
+    }
+
+    @RequestMapping("/register")
+    public String register(HttpServletRequest request) throws NoDataException, DataQueryException {
+        String kaptchaExpected = (String) request.getSession().getAttribute(Constants.KAPTCHA_SESSION_KEY);
+        System.out.println("kaptchaExpected:"+kaptchaExpected);
+        return "login/register";
+    }
+    @RequestMapping("/userregister")
+    public String register1(HttpServletRequest request) throws NoDataException, DataQueryException {
+        String kaptchaExpected = (String) request.getSession().getAttribute(Constants.KAPTCHA_SESSION_KEY);
+        System.out.println("kaptchaExpected:"+kaptchaExpected);
+        return "login/userregister";
+    }
+}

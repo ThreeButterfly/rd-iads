@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/cdc-drug/!svn/ver/5924/cdc/2.0/iads-platform/rd-iads/src/main/resources
+END
+db.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/cdc-drug/!svn/ver/5924/cdc/2.0/iads-platform/rd-iads/src/main/resources/db.properties
+END
+spring-mvc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/cdc-drug/!svn/ver/5924/cdc/2.0/iads-platform/rd-iads/src/main/resources/spring-mvc.xml
+END
+logback.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/cdc-drug/!svn/ver/5924/cdc/2.0/iads-platform/rd-iads/src/main/resources/logback.xml
+END
+orm.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/cdc-drug/!svn/ver/5924/cdc/2.0/iads-platform/rd-iads/src/main/resources/orm.properties
+END
+ehcache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/cdc-drug/!svn/ver/5924/cdc/2.0/iads-platform/rd-iads/src/main/resources/ehcache.xml
+END
