@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/cdc-drug/!svn/ver/5938/cdc/2.0/iads-platform/rd-iads-api/src/main/java/com/cdrundle/cdc/iads/service/bo
+END
+UserQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/cdc-drug/!svn/ver/5938/cdc/2.0/iads-platform/rd-iads-api/src/main/java/com/cdrundle/cdc/iads/service/bo/UserQuery.java
+END
+SortQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/cdc-drug/!svn/ver/5938/cdc/2.0/iads-platform/rd-iads-api/src/main/java/com/cdrundle/cdc/iads/service/bo/SortQuery.java
+END
+UserBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/cdc-drug/!svn/ver/5938/cdc/2.0/iads-platform/rd-iads-api/src/main/java/com/cdrundle/cdc/iads/service/bo/UserBo.java
+END

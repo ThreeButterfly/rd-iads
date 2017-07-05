@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/cdc-drug/!svn/ver/5937/cdc/2.0/iads-platform/rd-iads-api
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/cdc-drug/!svn/ver/5938/cdc/2.0/iads-platform/rd-iads-api/pom.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cdc-drug/!svn/ver/5938/cdc/2.0/iads-platform/rd-iads-api/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/cdc-drug/!svn/ver/5938/cdc/2.0/iads-platform/rd-iads-api/.classpath
+END
